@@ -7,6 +7,8 @@ int main(){
 	printf("oiuytrewertyu");
 	printf("hello all ia ma mdbjbjbdj");
 	printf(",mndsnbfsdbjcbjsdncki");
+	printf("sndkjcbadhcjhsdbvjk");
+	printf("bhdvhavshdcjsbcjsjc");
 	printf("hello i am dinesh kumar");
 return 0;
 }
